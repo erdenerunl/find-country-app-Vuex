@@ -2,6 +2,8 @@
   <div>
    <div class="app-header bg-primary text-center">
        <h1>Find Country App</h1>
+       <router-link to="/" >Home</router-link>
+       <router-link to="/favorites" >Favorites</router-link>
    </div>
   </div>
 </template>
